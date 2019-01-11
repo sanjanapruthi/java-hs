@@ -5,7 +5,9 @@ I took **AP Computer Science** from September 2015 - June 2016 and **Data Struct
 ## AP Computer Science: September 2015 - June 2016
 
 ### Breakout
-This is a recreation of Atari Breakout. It was my final project in AP Computer Science. To play, run the file "Breakout.java" and then use the arrow keys.
+This is a recreation of Atari Breakout. It was my final project in AP Computer Science. 
+
+To play, run the file "Breakout.java" and then use the arrow keys.
 
 ## Data Structures & Game Design: September 2017 - June 2018
 
@@ -13,6 +15,7 @@ This is a recreation of Atari Breakout. It was my final project in AP Computer S
 This is a game that requires the user to navigate a maze. The maze is stored and can be edited in the text file "maze1.txt". When run, the program displays two mazes: a 2D one on the left that allows users to have an aerial view of the maze, and a 3D one on the right that allows users to play as if they are physically going through the maze. To play, run the file "MazeProgram.java".
 
 ### Sound Matrix
+This program allows you to create and play music! Select the buttons corresponding to the notes you desire in order to create music and use the scroll bar on the bottom to adjust the speed. When you're ready, press play to listen to your masterpiece! Or, if desired, you can choose from one of the pre-existing melodies to play. 
 
 ### Hungry Bunnies
 
