@@ -31,4 +31,4 @@ To play, run the file "GameTemplate.java".
 
 This game requires the user to collect coins while avoiding enemies (the bees). It uses a side scroller for the background.
 
-To play, run the file "Game.java
+To play, run the file "Game.java"
